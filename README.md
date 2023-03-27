@@ -54,6 +54,8 @@ The given dataset is a supervised classification dataset. It holds booking infor
 
 <img src="https://user-images.githubusercontent.com/96882935/226996470-b9ada551-cb09-4dc1-b7b9-7f521da9b68d.png" width="800" height="600">
 
+![download-2](https://user-images.githubusercontent.com/128668596/228054576-04590e6c-f481-49ce-8ef2-7591a387d01a.png)
+
 ![newplot (1)](https://user-images.githubusercontent.com/96882935/226998378-33b74a2a-2f65-485b-a630-29d6555fe157.png)
 
 
