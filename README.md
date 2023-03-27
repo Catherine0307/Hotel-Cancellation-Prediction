@@ -1,6 +1,10 @@
 # Hotel-Cancellation-Prediction
-<img width="689" alt="Screenshot 2023-03-22 at 11 28 28 AM" src="https://user-images.githubusercontent.com/96882935/226996071-94f899a3-1b2e-4df6-b002-f4e4730c5962.png">
+
+![Hotel-Booking-1280x720](https://user-images.githubusercontent.com/128668596/228053799-fae98a6f-3bec-478d-8a89-1372cbafd5d0.jpg)
+
 There are many aspects considered when choosing a hotel. The main idea is to find the appropriate prediction model for predicting hotel booking cancellations which finds the finest explaining variables for customer cancellations. This Hotel Booking Cancellation model can be useful not only for the vacationer but for the hotels’ owners.
+
+The given dataset is a supervised classification dataset. It holds booking information for a city hotel and a resort hotel with information such as How and when the booking was made, the length of passengers’ stay with the number of parking slots available, the number of adults, children, and babies. The Logistic regression, K-Nearest Neighbor, Decision Tree, Random Forest algorithms are used to handle this supervised classification model. Among these four machine learning algorithms, Random forest and Decision trees perform well with respect to accuracy.
 
 ## Details of Dataset
 1. hotel :(H1 = Resort Hotel or H2 = City Hotel).
